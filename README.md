@@ -1,1 +1,1 @@
-# FinancialApp-RN
+# FinancialApp React Native
